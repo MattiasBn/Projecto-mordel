@@ -91,6 +91,21 @@ section#img02{
 
 
 }
+section#img03{
+    background-image: url(imagens/IMG-20220120-WA0016.jpg);
+    background-size:fixed ;
+    background-position: top right center ;
+    margin-bottom: auto;
+
+
+}
+section#img03 p{
+    width: 200px;
+}
+section.normal p{
+    width: 200px;
+
+}
 
 footer{
     background-color: black;
